@@ -1,8 +1,0 @@
-{
-"type": "sandbox",
-"title": "BlueCryptor",
-"description": "Learn how to use BlueCryptor",
-"swiftversion": "swift-3.0-RELEASE-ubuntu14.04",
-"giturl": "https://github.com/Kitura-Next/BlueCryptor-Sample.git",
-"gittag": "0.1.0"
-}
