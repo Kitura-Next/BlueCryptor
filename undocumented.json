@@ -1,0 +1,40 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/runner/work/BlueCryptor/BlueCryptor/Sources/Cryptor/Random.swift",
+      "line": 26,
+      "symbol": "RNGStatus",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/BlueCryptor/BlueCryptor/Sources/Cryptor/StreamCryptor.swift",
+      "line": 115,
+      "symbol": "StreamCryptor.ValidKeySize.fixed(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/BlueCryptor/BlueCryptor/Sources/Cryptor/StreamCryptor.swift",
+      "line": 116,
+      "symbol": "StreamCryptor.ValidKeySize.discrete(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/BlueCryptor/BlueCryptor/Sources/Cryptor/StreamCryptor.swift",
+      "line": 117,
+      "symbol": "StreamCryptor.ValidKeySize.range(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/BlueCryptor/BlueCryptor/Sources/Cryptor/StreamCryptor.swift",
+      "line": 258,
+      "symbol": "StreamCryptor.Algorithm.defaultKeySize",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/runner/work/BlueCryptor/BlueCryptor"
+}
